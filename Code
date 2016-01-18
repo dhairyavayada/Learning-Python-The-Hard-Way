@@ -1,0 +1,6 @@
+# Python-Program
+age = input("Please enter your age: ")
+if age == "23":
+    print ("Then you are of legal age.")
+else:
+    print ("Then you are NOT of legal age")
