@@ -1,4 +1,4 @@
-# Python-Program
+# A Very Basic Python-Program for the Google Code In Competition
 age = input("Please enter your age: ")
 if age == "23":
     print ("Then you are of legal age.")
