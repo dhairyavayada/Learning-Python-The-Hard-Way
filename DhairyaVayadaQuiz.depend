@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1469834762 source:c:\users\70010081\desktop\new folder\dhairyavayadaquiz\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<process.h>
+	<dos.h>
+	<windows.h>
+
+1469899371 source:c:\users\70010081\documents\quiz\new folder\dhairyavayadaquiz\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<process.h>
+	<dos.h>
+	<windows.h>
+
